@@ -52,7 +52,7 @@ function App() {
           </h1>
 
           <h2>
-            AI/ML & Data Science
+            Aspiring AI Engineer
             <br />
             <span>Developer</span>
           </h2>
@@ -486,19 +486,19 @@ function App() {
 
             <p className="certificate-label">CERTIFICATION</p>
 
-            <h3>Add Your Certificate Name</h3>
+            <h3>Python Developer Intern</h3>
 
             <p className="certificate-provider">
-              Issued by: Add Organization
+              Issued by: Zecser Business LLP
             </p>
 
             <p className="certificate-description">
-              Add a short description of the skills covered by this
-              certification.
+              Gained hands-on experience in REST API development, CRUD operations, 
+              JWT authentication, database integration, and API testing using Postman.
             </p>
 
             <a
-              href="#certifications"
+              href="/python.pdf"
               className="certificate-link"
             >
               Certificate details →
@@ -510,19 +510,19 @@ function App() {
 
             <p className="certificate-label">CERTIFICATION</p>
 
-            <h3>Add Your Certificate Name</h3>
+            <h3>Project Completion Certificate</h3>
 
             <p className="certificate-provider">
-              Issued by: Add Organization
+              Issued by: Riss Technologies
             </p>
 
             <p className="certificate-description">
-              Add a short description of the skills covered by this
-              certification.
+              Successfully completed an academic project involving AI-powered 
+              application development using Python and Flutter.
             </p>
 
             <a
-              href="#certifications"
+              href="/project.pdf"
               className="certificate-link"
             >
               Certificate details →
@@ -532,7 +532,7 @@ function App() {
       </section>
 
       <section className="contact-preview" id="contact">
-        <p className="section-label">03 / GET IN TOUCH</p>
+        <p className="section-label">06 / GET IN TOUCH</p>
         <h2>Let's build something great.</h2>
         <a href="mailto:sivahkrishna.dev@gmail.com" className="primary-button">
           Contact Me ↗

@@ -54,7 +54,7 @@ function App() {
           <h2>
             Aspiring AI Engineer
             <br />
-            <span>Developer</span>
+            <span>Python Developer</span>
           </h2>
 
           <p className="hero-description">
